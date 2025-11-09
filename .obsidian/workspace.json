@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science Engineering Tangible Project Idea's.md",
+                "file": "Computer Science Engineering Tangible Project Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Science Engineering Tangible Project Idea's"
-            }
-          },
-          {
-            "id": "54a06035ae5ae516",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "Computer Science Engineering Tangible Project Ideas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,9 +170,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54a06035ae5ae516",
+  "active": "c6c729be17d860b5",
   "lastOpenFiles": [
     "README.md",
-    "Computer Science Engineering Tangible Project Idea's.md"
+    "Computer Science Engineering Tangible Project Ideas.md"
   ]
 }
